@@ -9,6 +9,8 @@
 
 
 #### important
+All assignments due 830 am
+
 
 BC care Aide registry == post grad
 
