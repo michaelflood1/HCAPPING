@@ -1,0 +1,1554 @@
+{
+  "title": "HCA Body Systems, Aging, Pain, Skin, Mobility, Rehabilitation and Care Quiz",
+  "questions": [
+    {
+      "type": "mc",
+      "question": "What does structure refer to?",
+      "choices": {
+        "a": "What something does",
+        "b": "How the body is put together",
+        "c": "How the body heals",
+        "d": "How the body adapts to illness"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What does function refer to?",
+      "choices": {
+        "a": "How something is shaped",
+        "b": "Where something is located",
+        "c": "What something does",
+        "d": "How something develops"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "The cell is the:",
+      "choices": {
+        "a": "Smallest organ",
+        "b": "Basic structural and functional unit of the body",
+        "c": "Largest tissue",
+        "d": "Largest organelle"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which organelle is the control center of the cell and contains DNA?",
+      "choices": {
+        "a": "Cytoplasm",
+        "b": "Cell membrane",
+        "c": "Nucleus",
+        "d": "Tissue"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What is the main function of the cytoplasm?",
+      "choices": {
+        "a": "Store DNA",
+        "b": "Control inherited traits",
+        "c": "Support the other organelles",
+        "d": "Protect the entire body"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "How many chromosomes are normally found in each human body cell?",
+      "choices": {
+        "a": "23",
+        "b": "44",
+        "c": "46",
+        "d": "48"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What do chromosomes contain?",
+      "choices": {
+        "a": "Tissues",
+        "b": "Genes",
+        "c": "Organs",
+        "d": "Hormones"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Genes control:",
+      "choices": {
+        "a": "Inherited traits",
+        "b": "Only body temperature",
+        "c": "Only movement",
+        "d": "Only pain"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Cells with similar structure and function form a:",
+      "choices": {
+        "a": "System",
+        "b": "Tissue",
+        "c": "Organ",
+        "d": "Chromosome"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Organs that work together form a:",
+      "choices": {
+        "a": "Cell",
+        "b": "Tissue",
+        "c": "Body system",
+        "d": "Chromosome"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which tissue covers internal and external body surfaces and provides protection?",
+      "choices": {
+        "a": "Muscle",
+        "b": "Nervous",
+        "c": "Connective",
+        "d": "Epithelial"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Which tissue anchors, connects, and supports other tissues?",
+      "choices": {
+        "a": "Connective",
+        "b": "Epithelial",
+        "c": "Nervous",
+        "d": "Muscle"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "What is the main function of nervous tissue?",
+      "choices": {
+        "a": "Produce blood cells",
+        "b": "Relay information",
+        "c": "Store fat",
+        "d": "Cushion joints"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What is homeostasis?",
+      "choices": {
+        "a": "The breakdown of tissues",
+        "b": "The body's ability to maintain a stable internal environment",
+        "c": "The process of aging",
+        "d": "The body's response to fractures"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "The thoracic cavity is part of which major body cavity?",
+      "choices": {
+        "a": "Ventral",
+        "b": "Cranial",
+        "c": "Dorsal",
+        "d": "Spinal"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which physical change commonly occurs with aging?",
+      "choices": {
+        "a": "Faster metabolism",
+        "b": "Increased body reserve",
+        "c": "Slower response time",
+        "d": "Increased ability to self-repair"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which statement about aging is correct?",
+      "choices": {
+        "a": "Everyone ages in exactly the same way",
+        "b": "One single factor explains all aging",
+        "c": "Aging is influenced by many factors",
+        "d": "All body systems age at exactly the same rate"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is an example of a chronic or persistent illness?",
+      "choices": {
+        "a": "Common cold",
+        "b": "Influenza",
+        "c": "Alzheimer's disease",
+        "d": "Minor abrasion"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What is a major focus when caring for someone with a chronic illness?",
+      "choices": {
+        "a": "Preventing complications",
+        "b": "Ignoring symptoms",
+        "c": "Avoiding all activity",
+        "d": "Providing care for only one day"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "What is a major goal of long-term care?",
+      "choices": {
+        "a": "Eliminate every chronic illness",
+        "b": "Help residents cope with long-term illness or disability while maintaining quality of life",
+        "c": "Prevent residents from making choices",
+        "d": "Replace all family involvement"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Rehabilitation primarily focuses on:",
+      "choices": {
+        "a": "Regaining or improving function",
+        "b": "Preventing all aging",
+        "c": "Providing permanent care",
+        "d": "Eliminating every chronic illness"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which is NOT a rehabilitation goal?",
+      "choices": {
+        "a": "Restore function to a former level",
+        "b": "Improve functional ability",
+        "c": "Learn new skills",
+        "d": "Prevent independence"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Who is the key member of the rehabilitation team?",
+      "choices": {
+        "a": "The doctor",
+        "b": "The family",
+        "c": "The client",
+        "d": "The HCA"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What is the main focus of restorative care?",
+      "choices": {
+        "a": "Regaining every lost function",
+        "b": "Maintaining the highest level of function and preventing unnecessary decline",
+        "c": "Preventing clients from performing ADLs",
+        "d": "Replacing rehabilitation"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which area may be supported through restorative care?",
+      "choices": {
+        "a": "Self-care",
+        "b": "Elimination",
+        "c": "Mobility",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Holistic health emphasizes:",
+      "choices": {
+        "a": "Only physical health",
+        "b": "Only emotional health",
+        "c": "The whole person",
+        "d": "Only medical treatment"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is NOT one of the areas of holistic health?",
+      "choices": {
+        "a": "Physical",
+        "b": "Emotional",
+        "c": "Social",
+        "d": "Financial"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Illness is best described as:",
+      "choices": {
+        "a": "Loss of physical or mental health",
+        "b": "Loss of physical or mental function",
+        "c": "Loss of independence only",
+        "d": "Loss of mobility only"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Disability is best described as:",
+      "choices": {
+        "a": "Loss of physical or mental health",
+        "b": "Loss of physical or mental function",
+        "c": "A temporary infection",
+        "d": "A chronic illness only"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which set correctly identifies the six DIPPS principles?",
+      "choices": {
+        "a": "Dignity, Independence, Individuality, Preferences, Privacy, Safety",
+        "b": "Dignity, Illness, Independence, Privacy, Protection, Safety",
+        "c": "Disability, Independence, Individuality, Preferences, Privacy, Support",
+        "d": "Dignity, Independence, Information, Protection, Privacy, Security"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best demonstrates dignity when providing care?",
+      "choices": {
+        "a": "Talking about the client while they are present as if they cannot hear",
+        "b": "Treating the client respectfully and preserving their sense of worth",
+        "c": "Making decisions for the client without asking",
+        "d": "Rushing through personal care"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best promotes independence?",
+      "choices": {
+        "a": "Doing every ADL for the client",
+        "b": "Encouraging the client to do as much as they safely can for themselves",
+        "c": "Preventing the client from making choices",
+        "d": "Completing tasks before the client has a chance to try"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best demonstrates individuality?",
+      "choices": {
+        "a": "Treating every client exactly the same regardless of their needs",
+        "b": "Recognizing that each client has their own identity, needs, values, and routines",
+        "c": "Choosing the client's activities based only on the facility schedule",
+        "d": "Ignoring differences between clients"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best respects a client's preferences?",
+      "choices": {
+        "a": "Choosing the client's clothing without asking",
+        "b": "Following the client's reasonable choices about how they prefer to receive care",
+        "c": "Making all decisions according to what is easiest for the caregiver",
+        "d": "Ignoring the client's usual routines"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best protects a client's privacy?",
+      "choices": {
+        "a": "Discussing the client's personal information in a public hallway",
+        "b": "Leaving the client's door open during personal care",
+        "c": "Providing personal care in a way that protects the client's body and personal information",
+        "d": "Sharing client information with people who are not involved in their care"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which action best promotes client safety?",
+      "choices": {
+        "a": "Leaving a spill on the floor",
+        "b": "Ignoring a change in the client's condition",
+        "c": "Using appropriate safety measures and reporting hazards",
+        "d": "Allowing unsafe equipment to remain in use"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a common reaction to illness or disability?",
+      "choices": {
+        "a": "Fear",
+        "b": "Anxiety",
+        "c": "Depression",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Pain is best described as:",
+      "choices": {
+        "a": "A visible injury",
+        "b": "An unpleasant sensory or emotional experience",
+        "c": "A change in vital signs",
+        "d": "A disease"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Who can best describe what their pain feels like?",
+      "choices": {
+        "a": "The HCA",
+        "b": "The doctor",
+        "c": "The family member",
+        "d": "The person experiencing the pain"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "What is radiating pain?",
+      "choices": {
+        "a": "Pain felt only at the injury site",
+        "b": "Pain felt beyond the site of damage",
+        "c": "Pain felt only in an amputated limb",
+        "d": "Pain caused only by pressure"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What is phantom limb pain?",
+      "choices": {
+        "a": "Pain in a limb that has been amputated",
+        "b": "Pain caused by a bruise",
+        "c": "Pain caused only by arthritis",
+        "d": "Pain caused by a skin infection"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which can be a sign or symptom of pain?",
+      "choices": {
+        "a": "Grimacing",
+        "b": "Change in body language",
+        "c": "Change in mood or behaviour",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does P stand for?",
+      "choices": {
+        "a": "Position",
+        "b": "Provoking cause",
+        "c": "Pressure",
+        "d": "Pulse"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does Q stand for?",
+      "choices": {
+        "a": "Quality",
+        "b": "Quantity",
+        "c": "Question",
+        "d": "Quickness"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does R stand for?",
+      "choices": {
+        "a": "Reaction",
+        "b": "Region",
+        "c": "Rest",
+        "d": "Response"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does S stand for?",
+      "choices": {
+        "a": "Safety",
+        "b": "Symptoms",
+        "c": "Severity",
+        "d": "Sensation"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does T stand for?",
+      "choices": {
+        "a": "Treatment",
+        "b": "Timing",
+        "c": "Tissue",
+        "d": "Temperature"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "In PQRSTU pain assessment, what does U stand for?",
+      "choices": {
+        "a": "Understanding",
+        "b": "Urgency",
+        "c": "Use",
+        "d": "Unusual"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Persistent pain in older adults may cause:",
+      "choices": {
+        "a": "Improved sleep",
+        "b": "Increased mobility",
+        "c": "Lower mood",
+        "d": "Increased body reserve"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What is the largest organ of the body?",
+      "choices": {
+        "a": "Liver",
+        "b": "Skin",
+        "c": "Heart",
+        "d": "Lung"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which is the outer layer of the skin?",
+      "choices": {
+        "a": "Dermis",
+        "b": "Epidermis",
+        "c": "Periosteum",
+        "d": "Bone marrow"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which structures are found in the dermis?",
+      "choices": {
+        "a": "Blood vessels and nerves",
+        "b": "Sweat and oil glands",
+        "c": "Hair roots",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a function of the skin?",
+      "choices": {
+        "a": "Protection",
+        "b": "Sensation",
+        "c": "Temperature regulation",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "The skin helps regulate temperature through:",
+      "choices": {
+        "a": "Sweating and shivering",
+        "b": "Digestion and elimination",
+        "c": "Bone production",
+        "d": "Blood cell production"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a characteristic of healthy skin?",
+      "choices": {
+        "a": "Fragile",
+        "b": "Intact",
+        "c": "Extremely dry",
+        "d": "Poor turgor"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which skin change commonly occurs with aging?",
+      "choices": {
+        "a": "Increased elasticity",
+        "b": "Increased oil production",
+        "c": "Loss of elasticity",
+        "d": "Increased fatty tissue"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which hair change commonly occurs with aging?",
+      "choices": {
+        "a": "Hair becomes thicker and darker",
+        "b": "Hair whitens and thins",
+        "c": "Hair becomes permanently oily",
+        "d": "Hair stops growing completely"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which can help promote skin health?",
+      "choices": {
+        "a": "Avoiding all fluids",
+        "b": "Maintaining adequate fluid intake",
+        "c": "Using harsh soap frequently",
+        "d": "Keeping constant pressure on one area"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "An abrasion is:",
+      "choices": {
+        "a": "A bruise",
+        "b": "A clean cut",
+        "c": "A partial-thickness wound caused by rubbing or scraping",
+        "d": "A wound reaching bone"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "A contusion is:",
+      "choices": {
+        "a": "A bruise",
+        "b": "A clean cut",
+        "c": "A jagged cut",
+        "d": "A pressure ulcer"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "An incision is:",
+      "choices": {
+        "a": "A bruise",
+        "b": "A clean cut",
+        "c": "A jagged cut",
+        "d": "A pressure ulcer"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "A laceration is:",
+      "choices": {
+        "a": "A clean cut",
+        "b": "A bruise",
+        "c": "A jagged cut",
+        "d": "A pressure ulcer"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What characterizes a Stage 1 pressure ulcer according to the notes?",
+      "choices": {
+        "a": "Bone is visible",
+        "b": "Redness does not return to normal after pressure is removed",
+        "c": "The dermis is completely gone",
+        "d": "There is always a deep open wound"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "According to the notes, a Stage 4 pressure ulcer has progressed to:",
+      "choices": {
+        "a": "The epidermis",
+        "b": "The dermis",
+        "c": "Muscle only",
+        "d": "Bone"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Which type of wound drainage is typically yellow?",
+      "choices": {
+        "a": "Serous",
+        "b": "Sanguineous",
+        "c": "Purulent",
+        "d": "Serosanguineous"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which type of wound drainage is green or white?",
+      "choices": {
+        "a": "Serous",
+        "b": "Sanguineous",
+        "c": "Purulent",
+        "d": "Serosanguineous"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "What does the Braden Scale assess?",
+      "choices": {
+        "a": "Pain severity",
+        "b": "Risk of falls",
+        "c": "Risk of pressure ulcers",
+        "d": "Muscle strength"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Bones are:",
+      "choices": {
+        "a": "Dead tissue",
+        "b": "Made of living cells",
+        "c": "Made only of calcium",
+        "d": "Unable to repair themselves"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What is the periosteum?",
+      "choices": {
+        "a": "Bone marrow",
+        "b": "A membrane covering the bone",
+        "c": "Cartilage inside a joint",
+        "d": "A type of muscle"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What does red bone marrow produce?",
+      "choices": {
+        "a": "Muscle cells",
+        "b": "Red blood cells",
+        "c": "Cartilage",
+        "d": "Nerve cells"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a function of bones?",
+      "choices": {
+        "a": "Provide body structure",
+        "b": "Produce blood cells",
+        "c": "Store calcium and phosphorus",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "The femur is an example of which type of bone?",
+      "choices": {
+        "a": "Short",
+        "b": "Flat",
+        "c": "Long",
+        "d": "Irregular"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "The wrist contains which type of bones?",
+      "choices": {
+        "a": "Long",
+        "b": "Short",
+        "c": "Flat",
+        "d": "Sesamoid"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "The skull, ribs, and sternum are examples of:",
+      "choices": {
+        "a": "Long bones",
+        "b": "Short bones",
+        "c": "Flat bones",
+        "d": "Sesamoid bones"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "The patella is an example of a:",
+      "choices": {
+        "a": "Flat bone",
+        "b": "Long bone",
+        "c": "Sesamoid bone",
+        "d": "Short bone"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "A joint is:",
+      "choices": {
+        "a": "A muscle attached to bone",
+        "b": "Where two or more bones meet",
+        "c": "A type of ligament",
+        "d": "A type of marrow"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "What does synovial fluid do?",
+      "choices": {
+        "a": "Produces blood cells",
+        "b": "Lubricates joints",
+        "c": "Connects muscle to bone",
+        "d": "Protects the skin"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Ligaments connect:",
+      "choices": {
+        "a": "Muscle to muscle",
+        "b": "Muscle to bone",
+        "c": "Bone to bone",
+        "d": "Skin to muscle"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Tendons connect:",
+      "choices": {
+        "a": "Bone to bone",
+        "b": "Muscle to bone",
+        "c": "Bone to cartilage",
+        "d": "Skin to bone"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which type of muscle is voluntary?",
+      "choices": {
+        "a": "Smooth",
+        "b": "Cardiac",
+        "c": "Skeletal",
+        "d": "All muscle types"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Smooth muscle is:",
+      "choices": {
+        "a": "Voluntary",
+        "b": "Involuntary",
+        "c": "Found only in the heart",
+        "d": "Found only in bones"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Cardiac muscle is found in the:",
+      "choices": {
+        "a": "Lungs",
+        "b": "Stomach",
+        "c": "Heart",
+        "d": "Arms"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a function of muscles?",
+      "choices": {
+        "a": "Produce movement",
+        "b": "Maintain posture",
+        "c": "Produce heat",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "When observing mobility, what should you compare the client's performance with?",
+      "choices": {
+        "a": "Other clients",
+        "b": "The average older adult",
+        "c": "The person's own normal and usual level of function",
+        "d": "The caregiver's ability"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Mobility is:",
+      "choices": {
+        "a": "The ability to move or change position",
+        "b": "Only the ability to walk",
+        "c": "Only exercise",
+        "d": "The ability to lift weights"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Exercise is:",
+      "choices": {
+        "a": "Any random movement",
+        "b": "Goal-directed, planned, and structured",
+        "c": "Only vigorous activity",
+        "d": "Only activity performed by athletes"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which is an environmental or mechanical fall risk?",
+      "choices": {
+        "a": "Decreased vision",
+        "b": "Muscle weakness",
+        "c": "Clutter",
+        "d": "Cognitive impairment"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a client-related fall risk?",
+      "choices": {
+        "a": "Improper use of equipment",
+        "b": "Clutter",
+        "c": "Decreased vision",
+        "d": "Caregiver rushing"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a caregiver-related fall risk?",
+      "choices": {
+        "a": "Poor-fitting shoes",
+        "b": "Muscle weakness",
+        "c": "Negligence",
+        "d": "Cognitive impairment"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "A fracture is:",
+      "choices": {
+        "a": "A dislocated joint",
+        "b": "A broken bone",
+        "c": "A muscle tear",
+        "d": "A ligament injury only"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which can be a sign of a fracture?",
+      "choices": {
+        "a": "Pain and tenderness",
+        "b": "Swelling",
+        "c": "Loss of movement",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Hip fractures are particularly common in:",
+      "choices": {
+        "a": "Newborns",
+        "b": "Older adults",
+        "c": "Teenagers only",
+        "d": "Athletes only"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a possible complication of a hip fracture?",
+      "choices": {
+        "a": "Pneumonia",
+        "b": "Blood clots",
+        "c": "Pressure injuries",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Phantom limb pain may occur after:",
+      "choices": {
+        "a": "Arthritis",
+        "b": "Amputation",
+        "c": "Osteoporosis",
+        "d": "A bruise"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Osteoporosis causes bones to:",
+      "choices": {
+        "a": "Become denser and stronger",
+        "b": "Become less dense and weaker",
+        "c": "Become flexible",
+        "d": "Grow longer"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which are common fracture sites associated with osteoporosis?",
+      "choices": {
+        "a": "Hip, spine, and wrist",
+        "b": "Skull, jaw, and ribs only",
+        "c": "Fingers only",
+        "d": "Shoulder only"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which is a risk factor for osteoporosis?",
+      "choices": {
+        "a": "Weight-bearing activity",
+        "b": "Increased bone density",
+        "c": "Lack of weight-bearing activity",
+        "d": "Strong muscles"
+      },
+      "answer": "c"
+    },
+    {
+      "type": "mc",
+      "question": "Which is another risk factor for osteoporosis?",
+      "choices": {
+        "a": "Smoking",
+        "b": "Regular weight-bearing activity",
+        "c": "High bone density",
+        "d": "Strong muscle mass"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Osteoarthritis occurs when:",
+      "choices": {
+        "a": "The immune system attacks the joint lining",
+        "b": "Cartilage wears away and bones rub together",
+        "c": "Bones become infected",
+        "d": "Muscles stop contracting"
+      },
+      "answer": "b"
+    },
+    {
+      "type": "mc",
+      "question": "Which statement about osteoarthritis is correct?",
+      "choices": {
+        "a": "It is the most common type of arthritis",
+        "b": "It is always caused by infection",
+        "c": "It is an autoimmune disease",
+        "d": "It only affects children"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Rheumatoid arthritis is:",
+      "choices": {
+        "a": "An autoimmune disease",
+        "b": "Only caused by cartilage wear",
+        "c": "Always limited to one joint",
+        "d": "Only caused by aging"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Rheumatoid arthritis can cause:",
+      "choices": {
+        "a": "Inflammation",
+        "b": "Pain",
+        "c": "Swelling and stiffness",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "mc",
+      "question": "Rheumatoid arthritis commonly affects:",
+      "choices": {
+        "a": "Multiple joints symmetrically",
+        "b": "Only one finger",
+        "c": "Only the spine",
+        "d": "Only the knees"
+      },
+      "answer": "a"
+    },
+    {
+      "type": "mc",
+      "question": "Which may help provide comfort and support for a client with musculoskeletal problems?",
+      "choices": {
+        "a": "Positioning",
+        "b": "Heat",
+        "c": "Walking aids",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "type": "tf",
+      "question": "Structure refers to how the body is put together.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Function refers to how something is shaped.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "The nucleus contains DNA.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Human body cells normally contain 23 chromosomes.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Genes control inherited traits.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Similar cells with similar structure and function form tissues.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Organs that work together form tissues.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Epithelial tissue helps cover and protect body surfaces.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Nervous tissue is responsible for producing blood cells.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Homeostasis is the maintenance of a stable internal environment.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Everyone experiences aging in exactly the same way.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Metabolism generally slows with aging.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Older adults generally have increased body reserve compared with younger adults.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Chronic illnesses are also known as persistent illnesses.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A chronic illness is generally short-term and resolves quickly.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Diabetes can be a chronic illness.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Long-term care can help residents maintain quality of life while living with long-term illness or disability.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The client is the key member of the rehabilitation team.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Rehabilitation focuses primarily on preventing clients from becoming independent.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Restorative care helps maintain function and prevent unnecessary decline.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Illness and disability have exactly the same meaning.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Illness can refer to loss of physical or mental health.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Disability can refer to loss of physical or mental function.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Acute illnesses generally last for a short time.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Persistent illnesses generally last for a short period of time.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "DIPPS includes dignity, independence, individuality, preferences, privacy, and safety.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Individuality means recognizing that every client has their own identity, needs, values, and routines.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Promoting independence means allowing clients to do as much as they can safely do for themselves.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Respecting privacy includes protecting a client's personal information and providing personal care discreetly.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A client's reasonable preferences should be considered when providing care.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Maintaining dignity means treating clients with respect and preserving their sense of worth.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Client safety includes recognizing hazards and taking appropriate steps to reduce risk.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Individuality means treating every client exactly the same regardless of their personal needs and preferences.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Doing every task for a client is always the best way to promote independence.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Discussing private client information in a public area can violate privacy.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Pain can be an unpleasant sensory or emotional experience.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Only the HCA can determine what a client's pain feels like.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Radiating pain is pain felt beyond the original site of damage.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Phantom limb pain can occur after amputation.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Grimacing can be a sign of pain.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "In PQRSTU, Q stands for quality.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "In PQRSTU, S stands for safety.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "The skin is the largest organ of the body.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The epidermis is the inner layer of the skin.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "The dermis contains blood vessels, nerves, sweat glands, and hair roots.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The skin helps regulate body temperature.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Healthy skin should generally be intact and elastic.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Aging generally causes the skin to become more elastic.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Hair commonly becomes thinner and whiter with aging.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "An abrasion is caused by rubbing or scraping.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A contusion is a bruise.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "An incision is a jagged cut.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "A Stage 1 pressure ulcer involves redness that does not return to normal after pressure is removed.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A Stage 4 pressure ulcer can involve bone.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The Braden Scale assesses the risk of pressure ulcers.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Bones are made up entirely of dead tissue.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Red bone marrow produces red blood cells.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Bones store calcium and phosphorus.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "The femur is a short bone.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "The patella is a sesamoid bone.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Synovial fluid lubricates joints.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Ligaments connect muscle to bone.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Tendons connect muscle to bone.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Skeletal muscle is voluntary.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Smooth muscle is voluntary.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Cardiac muscle is found in the heart.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Muscles help maintain posture and produce heat.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Mobility means the ability to move or change position.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Exercise is always random and unstructured.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Clutter can increase the risk of falls.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Poor-fitting shoes can contribute to falls.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Negligence can be a caregiver-related fall risk.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "A fracture is a broken bone.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Hip fractures can lead to complications such as pneumonia, blood clots, pressure injuries, and delirium.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Osteoporosis causes bones to become stronger and denser.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Lack of weight-bearing activity can increase the risk of osteoporosis.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Osteoarthritis involves wearing away of cartilage.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Rheumatoid arthritis is an autoimmune disease.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Rheumatoid arthritis can affect multiple joints symmetrically.",
+      "answer": "true"
+    },
+    {
+      "type": "tf",
+      "question": "Rheumatoid arthritis can only occur in older adults.",
+      "answer": "false"
+    },
+    {
+      "type": "tf",
+      "question": "Walking aids may help support safety and independence.",
+      "answer": "true"
+    }
+  ]
+}
