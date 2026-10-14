@@ -19,7 +19,7 @@ Communication is a two-way process where people send and receive messages simult
 ### 4. Name and explain the insights from the communication model.
 
 - Sender and receiver: People send, receive, and interpret messages.
-- Encoding and decoding: Turning thoughts into messages and interpreting them.
+- Encoding and decoding: Turning thoughts into messages and interpreting them. ( meanings exist differently for different people)
 - Message and channel: The information shared and how it is delivered (e.g., speech or writing).
 - Feedback: The receiver's response to the message.
 - Noise: Anything that interferes with communication.
