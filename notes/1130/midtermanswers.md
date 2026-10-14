@@ -2,8 +2,15 @@
 
 ### 1. Name a characteristic of competent communication.
 
-- Effectiveness: Achieving your communication goal.
-- Appropriateness: Communicating respectfully and according to the situation.
+- adaptability
+
+- ability to perform skillfully
+
+- empathy and perspective taking
+
+- cognitive complexity
+
+- self monitoring
 
 ### 2. What is communication competence? (2 parts)
 
@@ -89,9 +96,11 @@ Caring means showing concern for another person's well-being. Show it by listeni
 
 Self-concept: How a person sees and understands themselves.
 
-- Learned: Develops through experiences and interactions.
-- Organized: Different beliefs about ourselves form an overall picture of who we are.
-- Dynamic: Can change over time as we gain new experiences.
+- subjective
+
+- resists change
+
+- flexible
 
 ### 17. Give two characteristics of someone with positive self-esteem.
 
