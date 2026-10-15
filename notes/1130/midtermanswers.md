@@ -50,8 +50,9 @@ Culture is the shared beliefs, values, customs, traditions, and behaviours of a 
 
 ### 8. Difference between cultural safety and cultural humility.
 
-- Cultural safety: Creating an environment where clients feel respected, safe, and free from discrimination; the client determines whether care is culturally safe.
-- Cultural humility: Continuously reflecting on your own biases, recognizing power differences, and learning from others.
+- Cultural safety: Creating an environment where clients feel respected, safe, and free from discrimination
+
+- Cultural humility: Continuously reflecting on your own biases, recognizing power differences, and learning from others. and to develop and maintain mutually respectful partnerships based on mutual trust
 
 ### 9. What is low-context vs. high-context communication?
 
@@ -60,16 +61,16 @@ Culture is the shared beliefs, values, customs, traditions, and behaviours of a 
 
 ### 10. What is cultural competence?
 
-The ability to understand and work respectfully and effectively with people from different cultural backgrounds.
+The ability to adapt behaviour toward another appropriate to their culture 
+
 
 ### 11. Give 3 ways to increase intercultural competence.
 
-- Learn about other cultures without stereotyping.
-- Reflect on your own biases and assumptions.
-- Ask respectful questions and listen with an open mind.
-- Build relationships with people from different backgrounds.
-- Learn about cultural differences in communication.
-- Accept feedback and continue learning.
+- Having an awareness of your own biases
+
+- having a  desire to learn
+
+- actively developing your skills
 
 ### 12. How can you show a client you are actively listening?
 
@@ -109,14 +110,15 @@ Self-concept: How a person sees and understands themselves.
 
 ### 18. What are two theories explaining how we develop self-concept?
 
-- Looking-glass self (Charles Cooley): We develop our self-image partly by imagining how others see and judge us.
-- Social comparison theory (Leon Festinger): We evaluate ourselves by comparing our abilities, achievements, or traits with others.
+- Looking-glass self : We develop our self-image partly by imagining how others see and judge us.
+- Social comparison theory : We evaluate ourselves by comparing our abilities, achievements, or traits with others.
 
 ### 19. Give three examples of showing warmth as an HCA.
 
 - Smile and greet clients in a friendly manner.
 - Use a gentle, respectful tone of voice.
 - Show genuine interest, listen attentively, and offer reassurance.
+
 
 ### 20. What guidelines should you follow when using humour at work?
 
@@ -125,14 +127,39 @@ Self-concept: How a person sees and understands themselves.
 - Consider the client's culture, feelings, and sense of humour.
 - Never joke about a client's condition or vulnerability.
 - Stop if the client appears uncomfortable.
-- Use humour to build rapport, not to avoid serious concerns.
+
 
 ### 21. Define the different types of communication noise and give examples.
 
-- Physical noise: Environmental distractions, e.g., a loud TV.
-- Physiological noise: Physical conditions affecting communication, e.g., hearing loss or pain.
-- Psychological noise: Thoughts or emotions interfering with listening, e.g., anxiety or anger.
-- Semantic noise: Confusion over the meaning of words, e.g., medical jargon a client does not understand.
+Any distraction that interferes with accurate transmission / reception of a message
+
+- External Noise
+
+    factors that are external to the receiver
+
+    - smells
+    - background noise
+    - being clled by another client
+
+- physiological noise
+
+    biological factors in the receiver that interfere with the ability to accurately receive the message
+
+    - deaf
+    - decreased vision
+    - GI issues
+    - Pain
+    - Must pee
+
+- psychological noise
+
+    cognitive factors that interfere with the receivers ability to accurately receive the message.
+
+    - emotions
+    - insecurities
+    - beliefs values attitudes
+    - perceptions
+    - culture
 
 ### 22. What is active listening? Give at least two points.
 
@@ -142,6 +169,9 @@ Active listening means fully concentrating on, understanding, and responding to 
 - Paraphrase or summarize to confirm understanding.
 - Ask clarifying questions.
 - Notice non-verbal cues.
+- face them
+- eye contact
+- lean in
 
 ### 23. What can affect how someone receives a message? Why does the same message differ from person to person?
 
@@ -173,15 +203,30 @@ Examples:
 
 ### 27. What are the three dimensions of empathy?
 
-- Cognitive empathy: Understanding another person's perspective and feelings.
-- Emotional empathy: Emotionally relating to or sharing another person's feelings.
-- Compassionate empathy: Understanding and relating to their feelings while being motivated to help.
+- perspective taking
+
+    - to become open minded to try and understand anothers view
+    - to become imaginative to understand anothers view
+    - to suspend your own beliefs and views
+
+- emotional contagion
+
+    reflectinng emotions and feelings back upon the person
+
+    - increases feeling of connectedness
+    - demonstrates acceptance
+    - hearing the reflection of your words and feelings increases self awareness and esteem
+
+- genuine concern
+
+    - used with intent
+    - is about acceptance and understanding not the concept of the message so much as the feelings.
 
 ### 28. Differentiate between beliefs, values, and attitudes. Give examples and explain how they influence self-concept.
 
 - Beliefs: Things we think are true. Example: “I believe I can learn new skills.”
 - Values: Things we consider important. Example: “Honesty matters to me.”
-- Attitudes: Positive or negative feelings or opinions about something. Example: “I enjoy helping people.”
+- Attitudes: The way we express ourselves in thoughts, words, actions. 
 
 Influence on self-concept: These shape how we view ourselves, judge our actions, and decide what kind of person we are.
 
