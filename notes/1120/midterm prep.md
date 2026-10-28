@@ -1,7 +1,5 @@
 # MHPS 1120 Study Guide: Answers
 
-> Note: Some questions refer to your specific textbooks (Mosby's, Sorrentino, Wilk et al.). Where wording may differ from your text, I've marked it with (check text). Personal questions have sample answers you should replace with your own experience.
-
 ---
 
 ## 1. Dimensions & Determinants of Health; Holism, Health Promotion & Disease Prevention
